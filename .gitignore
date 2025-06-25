@@ -10,3 +10,5 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+OPENAI_API_KEY = "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"
